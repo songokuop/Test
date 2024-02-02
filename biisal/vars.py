@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 bot_name = "Mᴏᴠɪᴇs Zᴏɴᴇ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
-bisal_channel = "https://telegram.me/movies_zone_channel"
+bisal_channel = "https://telegram.me/movies_zone_media"
 bisal_grp = "https://t.me/movies_zone_support"
 
 class Var(object):
