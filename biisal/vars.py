@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-bot_name = "Bɪɪsᴀʟ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
+bot_name = "Mᴏᴠɪᴇs Zᴏɴᴇ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
 bisal_channel = "https://telegram.me/movies_zone_channel"
 bisal_grp = "https://t.me/movies_zone_support"
 
